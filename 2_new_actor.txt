@@ -1,0 +1,1 @@
+[{"new_actor": {"YENAGOA": 1, "DICKSON": 3, "ALAMIEYESEIGHA": 3}, "doc_id": "nigeria_thepunch20161011.0001"}, {"new_actor": {"YENAGOA": 1, "DICKSON": 3, "ALAMIEYESEIGHA": 3}, "doc_id": "nigeria_thepunch20161011.0001"}, {"new_actor": {"YENAGOA": 1, "DICKSON": 3, "ALAMIEYESEIGHA": 3}, "doc_id": "nigeria_thepunch20161011.0001"}]

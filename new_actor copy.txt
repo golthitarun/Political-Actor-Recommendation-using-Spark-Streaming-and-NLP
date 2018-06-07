@@ -1,0 +1,1 @@
+[{"new_actor": {"SALEH": 2}, "doc_id": "menafn_saudi20161011.0003"}]

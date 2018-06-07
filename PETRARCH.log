@@ -1,0 +1,19 @@
+INFO 2018-05-07 10:19:03,583: Running
+INFO 2018-05-07 10:19:03,584: Using Config file: PETR_config.ini
+INFO 2018-05-07 10:19:03,586: Reading CAMEO.2.0.txt
+INFO 2018-05-07 10:19:05,473: Reading Phoenix.agents.txt
+
+WARNING 2018-05-07 10:19:05,505: Codes are required for agents in .agents file ; line skipped
+INFO 2018-05-07 10:19:05,510: Reading Phoenix.discards.txt
+INFO 2018-05-07 10:19:05,518: Reading Phoenix.IssueCoding.txt
+INFO 2018-05-07 10:19:25,215: ut.EP un_africa2018-05-03 01:01:16.965051_1 text not found
+INFO 2018-05-07 10:19:25,215: ut.EP un_africa2018-05-03 01:01:16.965051_1 text not found
+INFO 2018-05-07 10:19:30,179: ut.EP pakistan_dailymessanger2018-05-03 01:01:44.940314_0 text not found
+INFO 2018-05-07 10:19:30,179: ut.EP pakistan_dailymessanger2018-05-03 01:01:44.940314_0 text not found
+INFO 2018-05-07 10:19:40,177: ut.EP int_the_news_islamabad2018-05-03 01:02:29.070993_1 text not found
+INFO 2018-05-07 10:19:40,178: ut.EP int_the_news_islamabad2018-05-03 01:02:29.070993_1 text not found
+_1 text not found
+INFO 2018-05-07 10:19:30,179: ut.EP pakistan_dailymessanger2018-05-03 01:01:44.940314_0 text not found
+INFO 2018-05-07 10:19:30,179: ut.EP pakistan_dailymessanger2018-05-03 01:01:44.940314_0 text not found
+INFO 2018-05-07 10:19:40,177: ut.EP int_the_news_islamabad2018-05-03 01:02:29.070993_1 text not found
+INFO 2018-05-07 10:19:40,178: ut.EP int_the_news_islamabad2018-05-03 01:02:29.070993_1 text not found

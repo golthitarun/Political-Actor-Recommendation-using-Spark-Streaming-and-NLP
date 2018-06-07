@@ -1,0 +1,1 @@
+[["OLMERT", 10], ["MASHAL", 3], ["DUTERTE", 2], ["SHEARER", 2], ["POIRIER", 1]]
